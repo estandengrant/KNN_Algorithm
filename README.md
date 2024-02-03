@@ -1,4 +1,4 @@
-# K-NEAREST NEIGHTBOUR ALGORITHM RESEARCH
+# K-NEAREST NEIGHTBOUR ALGORITHM
 
 This repo contains 2 files: main.py & Iris.csv
 
