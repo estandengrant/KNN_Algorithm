@@ -1,7 +1,7 @@
 # K-NEAREST NEIGHTBOUR ALGORITHM
 
 ### Repo Structure:
-- main.py: Python file containing KNN algorithm and data processing.
+- main.py: Python file containing KNN algorithm developed from scratch and data processing.
 - Iris.csv: CSV file containing data on severl species of Iris plants along with thier classification.
 
 ### Data 🌻
